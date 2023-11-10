@@ -106,9 +106,7 @@ The regression was able to run with the full dataset and demonstrated performanc
 The Hybrid approach was particularly intriguing, providing strong predictions for the top 20 rank with the constrained linear regression.
 
 #### Outline of project
-- [Link to notebook 1]()
-- [Link to notebook 2]()
-- [Link to notebook 3]()
+- [Link to notebook 1]() https://github.com/Ljuliazhu/test2-0707/blob/main/spotify_EDA_results_10_10--Latest.ipynb 
 ##### Contact and Further Information
 If you have any questions, please email me at zhu.julia.2010@gmail.com
     
